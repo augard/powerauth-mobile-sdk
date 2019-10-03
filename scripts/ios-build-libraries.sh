@@ -50,7 +50,7 @@ SOURCE_FILES="${SRC_ROOT}/proj-xcode/Classes"
 #
 PLATFORM_SDK1="iphoneos"
 PLATFORM_SDK2="iphonesimulator"
-PLATFORM_ARCHS1="armv7 armv7s arm64"
+PLATFORM_ARCHS1="armv7 armv7s arm64 i386 x86_64"
 PLATFORM_ARCHS2="i386 x86_64"
 OUT_LIBRARY="libPowerAuthCore.a"
 
